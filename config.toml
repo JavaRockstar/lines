@@ -1,6 +1,6 @@
 baseURL = "https://lines-hugo-theme.netlify.app/"
 languageCode = "en-us"
-title = "Lines - Minimalist Hugo theme"
+title = "Mining Guides - Learn to mine cryptocurrency"
 disableKinds = ["section", "categories"]
 disqusShortname = ""
 pygmentsCodeFences = false

@@ -1,4 +1,4 @@
-baseURL = "https://lines-hugo-theme.netlify.app/"
+baseURL = "https://practical-bhabha-931d84.netlify.app/"
 languageCode = "en-us"
 title = "Mining Guides - Learn to mine cryptocurrency"
 disableKinds = ["section", "categories"]

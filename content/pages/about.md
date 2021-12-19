@@ -2,9 +2,9 @@
 title: About
 ---
 
-# Lines
+# MiningGuides
 
-Lines is a minimalistic Hugo blogging theme.
+MiningGuides is a simplistic website that teaches you how to mine various cryptocurrencies. Our website created under a basic theme called Lines.
 
 ### Features
 

@@ -7,6 +7,8 @@ pygmentsCodeFences = false
 pygmentsUseClasses = false
 paginate = 999
 minify = true
+enableInlineShortcodes = true
+enableEmoji = true
 
 
 [taxonomies]

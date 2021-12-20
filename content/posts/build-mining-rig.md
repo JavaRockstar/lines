@@ -13,10 +13,7 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 <!--more-->
 ---
 
-
-## YouTube Privacy Enhanced Shortcode
-
-{{< youtube hNqs3Fn8TNo >}}
+[![GPU Mining Rig Buying Guide](https://img.youtube.com/vi/hNqs3Fn8TNo/0.jpg)](https://www.youtube.com/watch?v=hNqs3Fn8TNo)
 
 <br>
 

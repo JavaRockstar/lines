@@ -5,6 +5,7 @@ date: 2019-03-08
 description: Picking The Most Profitable Coin To Mine
 math: true
 ---
+:moneybag:
 
 Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.
 <!--more-->

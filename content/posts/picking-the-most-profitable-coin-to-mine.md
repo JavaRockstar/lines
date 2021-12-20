@@ -7,10 +7,10 @@ math: true
 ---
 :moneybag:
 
-Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.
+To find the most profitable coins to mine we can use websites like WhatToMine.
 <!--more-->
 
-In this example we will be using [KaTeX](https://katex.org/)
+WhatToMine Calculate how profitable it is to mine selected altcoins in comparison to ethereum or bitcoin. [WhatToMine](https://whattomine.com/)
 
 - Create a partial under `/layouts/partials/math.html`
 - Within this partial reference the [Auto-render Extension](https://katex.org/docs/autorender.html) or host these scripts locally.

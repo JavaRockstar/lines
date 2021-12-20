@@ -1,5 +1,5 @@
 ---
-title: "Lorem ipsum sit ale natus unde"
+title: "Hotspot Mining"
 description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem"
 date: "2016-09-08"
 tags:

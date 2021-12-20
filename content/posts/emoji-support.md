@@ -1,8 +1,8 @@
 +++
-author = "Hugo Authors"
-title = "Emoji Support"
+author = "Mining Guides"
+title = "Mining Software"
 date = "2019-03-05"
-description = "Guide to emoji usage in Hugo"
+description = "Best mining software to use for mining cryptocurrency"
 tags = [
     "emoji",
 ]

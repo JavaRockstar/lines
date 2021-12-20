@@ -1,6 +1,6 @@
 ---
 title: "Dogecoin Mining" :dog:
-description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem"
+description: "Learn to mine Dogecoin"
 date: "2015-09-08"
 tags:
 - Lorem

@@ -1,6 +1,6 @@
 +++
-author = "Hugo Authors"
-title = "Rich Content"
+author = "Mining Guides"
+title = "Build a mining rig"
 date = "2019-03-10"
 description = "A brief description of Hugo Shortcodes"
 tags = [

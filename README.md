@@ -1,4 +1,4 @@
-# Mining Guides
+# Lines
 
 Mining Guides is using Lines is a minimalistic Hugo blogging theme. The pages on our site are wrote in Markdown language they are easy to edit and look great. I have seen some really good sites overtime that have a wealth of information but look so simplistic in design. Since we are trying to keep our website as clean and simple to use as possible we figured what better then an index of the best infomation to help you learn to mine Cryptocurrencies.
 

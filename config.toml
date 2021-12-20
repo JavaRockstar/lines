@@ -7,8 +7,6 @@ pygmentsCodeFences = false
 pygmentsUseClasses = false
 paginate = 999
 minify = true
-enableEmoji = true
-
 
 [taxonomies]
   tag = "tags"

@@ -1,8 +1,8 @@
 ---
 author: Hugo Authors
-title: Math Typesetting
+title: Picking The Most Profitable Coin To Mine
 date: 2019-03-08
-description: A brief guide to setup KaTeX
+description: Picking The Most Profitable Coin To Mine
 math: true
 ---
 

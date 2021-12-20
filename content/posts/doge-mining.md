@@ -1,5 +1,5 @@
 ---
-title: "Dogecoin Mining" :dog:
+title: "Dogecoin Mining"
 description: "Learn to mine Dogecoin"
 date: "2015-09-08"
 tags:

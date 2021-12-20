@@ -1,5 +1,5 @@
 +++
-title = "Lorem ipsum"
+title = "Asic Miners"
 description = "Custom description (max 160 characters)"
 tags = [
     "markdown",

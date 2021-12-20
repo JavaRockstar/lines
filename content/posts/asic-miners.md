@@ -1,5 +1,5 @@
 +++
-title = "Asic Miners"
+title = "Asic Miners" :smiling_imp:
 description = "Custom description (max 160 characters)"
 tags = [
     "markdown",
